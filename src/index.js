@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 import {Animated, KeyboardAvoidingView, Modal, PanResponder, Platform, TouchableOpacity, View} from 'react-native';
-import styles from './styles';
+import styles from './style';
 
 const SUPPORTED_ORIENTATIONS = [
     'portrait',
