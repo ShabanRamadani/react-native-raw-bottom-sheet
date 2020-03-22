@@ -1,6 +1,6 @@
 {
   "name": "react-native-raw-bottom-sheet",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Add Your Own Component To Bottom Sheet Whatever You Want (Android & iOS)",
   "main": "index.js",
   "typings": "index.d.ts",
@@ -52,5 +52,8 @@
     "transform": {
       "^.+\\.js$": "<rootDir>/node_modules/react-native/jest/preprocessor.js"
     }
+  },
+  "dependencies": {
+    "react-native-raw-bottom-sheet": "https://github.com/ShabanRamadani/react-native-raw-bottom-sheet.git"
   }
 }
